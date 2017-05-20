@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/uagaviria/pruebas-api-node#readme",
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
   }
 }
